@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BryceCarter311
-- 👀 I’m interested in Powershell automation and .NET
+- 👀 I’m interested in Powershell automation, .NET programming, Active Directory, Exchange, Azure, Unity
 - 🌱 I’m currently learning Python
 
 <!---
